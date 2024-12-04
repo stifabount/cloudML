@@ -1,5 +1,6 @@
 runtime: nodejs22
- 
+service: front-end
+
 handlers:
 - url: /favicon\.png
   static_files: favicon.png
